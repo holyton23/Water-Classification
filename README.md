@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @holyton23
-- 👀 I’m interested in learning Python
-- 🌱 New to Python Programming
-- 💞️ I’m looking to collaborate on new ways or partnership which will enable me learn from Zero to becoming a Hero
 - 📫 You can reach me by sending an e-mail to holyton23@gmail.com
 
 <!---
