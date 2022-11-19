@@ -7,7 +7,10 @@ Both the dataset and Jupyter notebook used for the project are included in this 
 ### Water is Life <br />
 ![alt text](https://github.com/holyton23/Water-Classification/blob/main/watersplash.jpg) <br />
 Water is essential to life. It is part of human existence and daily activities. To be safe for drinking, the water must satisfied some criteria like being tasteless, odourless and colourless. But with recent events and human activities, the criteria above can no longer satisfy how safe water can be for drinking or use as it comes polluted. Impurities like ammonia, bacteria, copper, viruses, mercury, lead and a host of other are not visible to the bare eyes.
-But with laboratory testing, this can be detected if present in the water sample and based on acceptable values, the water can be determine if its fit for use or not and classification machine learning model can assist to classify into weather is safe or not safe  <br /><br />
+But with laboratory testing, this can be detected if present in the water sample and based on acceptable values, the water can be determine if its fit for use or not and classification machine learning model can assist to classify into weather is safe or not safe.  <br /><br />
+
+The dataset is a not real but it’s for the purpose of training the model and it can be pulled from [Kaggle](https://github.com/holyton23/Water-Classification/blob/main/waterquality.csv). <br />
+
 ## Methodology
 ### Python Libraries
 For the classification project, the libraries used were:
